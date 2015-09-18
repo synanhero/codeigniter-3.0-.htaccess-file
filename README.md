@@ -9,7 +9,7 @@ this is a useful htaccess file for codeigniter 3.0
 
 2- Adds expires dates for cached files
 
-3- Enables Gzip for html|txt|css|js|php|pl files
+3- Enables Gzip for html|txt|css|js|php files
 
 4- Also Output filters for .php and .js files 
 
