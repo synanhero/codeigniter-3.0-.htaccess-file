@@ -1,6 +1,6 @@
 # codeigniter 3.0 .htaccess file
 
-this is a useful htaccess file for codeigniter 3.0
+this is a useful .htaccess file for codeigniter 3.0
 
 .htaccess file coded based on https://gtmetrix.com/ results . 
 
