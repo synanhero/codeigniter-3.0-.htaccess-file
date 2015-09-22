@@ -17,7 +17,8 @@ this is a useful .htaccess file for codeigniter 3.0
 * removing index.php works fine also in shared hostings like godady etc
 
 **2.htaccess**
-Working on Plesk Panel
+
+ * Working on Plesk Panel
 
 
 Thanks 
